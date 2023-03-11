@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61ce3000-5b0b-4008-95e9-e1cf1a7b49c1" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/images/projects/교육센터.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/projects/만지작 메인.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/projects/카멜레온 집사.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/projects/콘솔프로젝트.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/projects/GGMALL메인.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,8 @@
       <workItem from="1678079673346" duration="4176000" />
       <workItem from="1678170562132" duration="875000" />
       <workItem from="1678174686522" duration="2649000" />
-      <workItem from="1678342316588" duration="3986000" />
+      <workItem from="1678342316588" duration="4048000" />
+      <workItem from="1678529280122" duration="4160000" />
     </task>
     <servers />
   </component>
